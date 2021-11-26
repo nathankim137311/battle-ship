@@ -1,0 +1,30 @@
+{
+  "name": "battle-ship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build-dev": "webpack --mode development",
+    "watch": "webpack --watch", 
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathankim137311/battle-ship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathankim137311/battle-ship/issues"
+  },
+  "homepage": "https://github.com/nathankim137311/battle-ship#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
