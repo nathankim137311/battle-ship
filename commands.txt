@@ -1,0 +1,8 @@
+// webpack 
+npm run watch
+
+// use jest to test all javascript files
+npm run test
+
+
+
