@@ -4,7 +4,6 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "build-dev": "webpack --mode development",
     "watch": "webpack --watch", 
     "test": "jest --watchAll --verbose"
   },
